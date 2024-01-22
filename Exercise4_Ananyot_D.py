@@ -1,7 +1,7 @@
-FE = 80
-GB = 65.5
-ICS = 70
-CP = 85
+FE = input()
+GB = input()
+ICS = input()
+CP = input()
 
 print("---Your Score---")
 print("Foundation English :",FE)
